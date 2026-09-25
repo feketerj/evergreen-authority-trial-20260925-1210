@@ -1,6 +1,6 @@
 {
   "kind": "synthetic-exact-head-v1",
-  "parent_sha": "9f66e2a11ad8d54d8c592812b6a781c13bd78dde",
+  "parent_sha": "b0969b0f654bd62a0b0312f976ef9d246e8154e5",
   "source_sha256": "895351c620eab203890642c1e9bcda61bb60498525ac9cdd7b44b3ce5b8e318c",
-  "verdict": "FAIL"
+  "verdict": "PASS"
 }
